@@ -1,6 +1,6 @@
 {
   "name": "search-in-array",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "search-list, search in array, custom search in array, search in list",
   "main": "index.js",
   "scripts": {
