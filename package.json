@@ -1,0 +1,22 @@
+{
+  "name": "search-in-array",
+  "version": "1.0.1",
+  "description": "search-list, search in array, custom search in array, search in list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irshadvali/search-in-array.git"
+  },
+  "keywords": [
+    "search-list, search in array, custom search in array, search in list"
+  ],
+  "author": "irshad vali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irshadvali/search-in-array/issues"
+  },
+  "homepage": "https://github.com/irshadvali/search-in-array#readme"
+}
